@@ -7,7 +7,7 @@ Perfect for practicing **DOM manipulation**, **setInterval**, and styling with C
 
 ## 📌 Features
 - Shows **hours, minutes, and seconds** in real-time
-- **12-hour format**
+- **24-hour format**
 - Simple and clean UI
 - Styled with CSS for a modern look
 
