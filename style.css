@@ -1,0 +1,39 @@
+
+body{
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(39, 50, 50);
+}
+.clock-holder{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: rgb(135, 216, 216);
+    box-shadow: 0 10px 30px rgb(25, 175, 208);
+}
+.timpe-options{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+     margin-left: 20px;
+}
+.main-div{
+    border: 3px solid rgb(8, 135, 135);
+    width: 350px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    border-radius: 15px;
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
